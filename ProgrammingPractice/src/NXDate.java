@@ -8,7 +8,7 @@ public class NXDate {
 		aDate.setDateTime(1372352410);
 		aDate.printDate();
 		aDate.printThisMonth();
-		aDate.printWholeMonth(2);
+		aDate.printWholeMonth(2) ;
 	}
 
 	long totalSec;
