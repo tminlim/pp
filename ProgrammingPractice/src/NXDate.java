@@ -24,9 +24,11 @@ public class NXDate {
 	static int[] monthDay = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 
 	public NXDate() {
+		this(0);
 	}
 
 	public NXDate(long totalSec) {
+		setDateTime(totalSec);
 	}
 
 	private void setDateTime(int aYear, int aMonth, int aDay, int aHour,
