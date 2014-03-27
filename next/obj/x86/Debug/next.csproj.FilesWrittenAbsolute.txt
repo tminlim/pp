@@ -1,0 +1,5 @@
+/Users/tmin_lim/git/pp/next/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/tmin_lim/git/pp/next/bin/Debug/next.exe.mdb
+/Users/tmin_lim/git/pp/next/bin/Debug/next.exe
+/Users/tmin_lim/git/pp/next/obj/x86/Debug/next.exe
+/Users/tmin_lim/git/pp/next/obj/x86/Debug/next.exe.mdb
