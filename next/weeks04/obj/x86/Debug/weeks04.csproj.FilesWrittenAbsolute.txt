@@ -1,0 +1,5 @@
+/Users/tmin_lim/git/pp/next/weeks04/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/tmin_lim/git/pp/next/weeks04/bin/Debug/weeks04.exe.mdb
+/Users/tmin_lim/git/pp/next/weeks04/bin/Debug/weeks04.exe
+/Users/tmin_lim/git/pp/next/weeks04/obj/x86/Debug/weeks04.exe
+/Users/tmin_lim/git/pp/next/weeks04/obj/x86/Debug/weeks04.exe.mdb
