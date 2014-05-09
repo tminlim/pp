@@ -1,0 +1,10 @@
+/Users/tmin_lim/git/pp/next/weeks04_ex/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/tmin_lim/git/pp/next/weeks04_ex/bin/Debug/weeks04_ex.exe.mdb
+/Users/tmin_lim/git/pp/next/weeks04_ex/bin/Debug/weeks04_ex.exe
+/Users/tmin_lim/git/pp/next/weeks04_ex/obj/x86/Debug/weeks04_ex.exe
+/Users/tmin_lim/git/pp/next/weeks04_ex/obj/x86/Debug/weeks04_ex.exe.mdb
+/Users/tmin_lim/git/pp/next/weeks05/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/tmin_lim/git/pp/next/weeks05/bin/Debug/weeks04_ex.exe.mdb
+/Users/tmin_lim/git/pp/next/weeks05/bin/Debug/weeks04_ex.exe
+/Users/tmin_lim/git/pp/next/weeks05/obj/x86/Debug/weeks04_ex.exe
+/Users/tmin_lim/git/pp/next/weeks05/obj/x86/Debug/weeks04_ex.exe.mdb
