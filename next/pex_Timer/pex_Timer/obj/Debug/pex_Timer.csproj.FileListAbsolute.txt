@@ -1,0 +1,9 @@
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_Timer\pex_Timer\bin\Debug\pex_Timer.exe.config
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_Timer\pex_Timer\obj\Debug\pex_Timer.csprojResolveAssemblyReference.cache
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_Timer\pex_Timer\obj\Debug\pex_Timer.Form1.resources
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_Timer\pex_Timer\obj\Debug\pex_Timer.Properties.Resources.resources
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_Timer\pex_Timer\obj\Debug\pex_Timer.csproj.GenerateResource.Cache
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_Timer\pex_Timer\bin\Debug\pex_Timer.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_Timer\pex_Timer\bin\Debug\pex_Timer.pdb
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_Timer\pex_Timer\obj\Debug\pex_Timer.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_Timer\pex_Timer\obj\Debug\pex_Timer.pdb

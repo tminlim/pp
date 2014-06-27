@@ -1,0 +1,9 @@
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_week09-chatting\pex_week09-chatting\bin\Debug\pex_week09-chatting.exe.config
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_week09-chatting\pex_week09-chatting\bin\Debug\pex_week09-chatting.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_week09-chatting\pex_week09-chatting\bin\Debug\pex_week09-chatting.pdb
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_week09-chatting\pex_week09-chatting\obj\Debug\pex_week09_chatting.Form1.resources
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_week09-chatting\pex_week09-chatting\obj\Debug\pex_week09_chatting.Properties.Resources.resources
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_week09-chatting\pex_week09-chatting\obj\Debug\pex_week09-chatting.csproj.GenerateResource.Cache
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_week09-chatting\pex_week09-chatting\obj\Debug\pex_week09-chatting.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_week09-chatting\pex_week09-chatting\obj\Debug\pex_week09-chatting.pdb
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\weeks9\pex_week09-chatting\pex_week09-chatting\obj\Debug\pex_week09-chatting.csprojResolveAssemblyReference.cache
