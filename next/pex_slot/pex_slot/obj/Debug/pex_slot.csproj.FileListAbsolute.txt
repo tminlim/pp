@@ -1,0 +1,8 @@
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_slot\pex_slot\bin\Debug\pex_slot.exe.config
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_slot\pex_slot\obj\Debug\pex_slot.Form1.resources
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_slot\pex_slot\obj\Debug\pex_slot.Properties.Resources.resources
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_slot\pex_slot\obj\Debug\pex_slot.csproj.GenerateResource.Cache
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_slot\pex_slot\bin\Debug\pex_slot.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_slot\pex_slot\bin\Debug\pex_slot.pdb
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_slot\pex_slot\obj\Debug\pex_slot.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_slot\pex_slot\obj\Debug\pex_slot.pdb

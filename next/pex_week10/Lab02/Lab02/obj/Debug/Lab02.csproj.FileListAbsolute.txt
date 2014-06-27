@@ -1,0 +1,5 @@
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab02\Lab02\obj\Debug\Lab02.pdb

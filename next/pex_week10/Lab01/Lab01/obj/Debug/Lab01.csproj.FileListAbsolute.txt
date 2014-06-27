@@ -1,0 +1,6 @@
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab01\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week10\Lab01\Lab01\obj\Debug\Lab01.pdb

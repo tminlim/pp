@@ -1,0 +1,2 @@
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week07\pex_week07\bin\Debug\pex_week07.exe.config
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week07\pex_week07\obj\Debug\pex_week07.csprojResolveAssemblyReference.cache

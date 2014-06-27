@@ -1,0 +1,6 @@
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week7\pex_week7\bin\Debug\pex_week7.exe.config
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week7\pex_week7\obj\Debug\pex_week7.csprojResolveAssemblyReference.cache
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week7\pex_week7\bin\Debug\pex_week7.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week7\pex_week7\bin\Debug\pex_week7.pdb
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week7\pex_week7\obj\Debug\pex_week7.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\pex_week7\pex_week7\obj\Debug\pex_week7.pdb
