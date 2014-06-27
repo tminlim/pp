@@ -1,0 +1,6 @@
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\finalTest\finalTest\bin\Debug\finalTest.exe.config
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\finalTest\finalTest\obj\Debug\finalTest.csprojResolveAssemblyReference.cache
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\finalTest\finalTest\bin\Debug\finalTest.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\finalTest\finalTest\bin\Debug\finalTest.pdb
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\finalTest\finalTest\obj\Debug\finalTest.exe
+C:\Users\tminLim\Documents\Visual Studio 2013\Projects\finalTest\finalTest\obj\Debug\finalTest.pdb
